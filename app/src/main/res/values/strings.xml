@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Count_app</string>
+    <string name="triangle">▲</string>
+    <string name="triangle_under">▼</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+    <string name="reset">RESET</string>
+    <string name="num">NUM</string>
+</resources>
